@@ -36,7 +36,7 @@ namespace UWS_BACK.Controllers
                 feedbackSubject = newFeedback.feedbackSubject,
                 feedbackResponse = newFeedback.feedbackResponse,
                 feedbackStatus = newFeedback.feedbackStatus,
-                feedbackSentDate = newFeedback.feedbackSentDate
+                feedbackSentDate = DateTime.Now,
 
             };
 
