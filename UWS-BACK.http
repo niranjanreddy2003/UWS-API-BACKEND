@@ -1,0 +1,6 @@
+@UWS_BACK_HostAddress = http://localhost:5080
+
+GET {{UWS_BACK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

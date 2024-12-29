@@ -1,0 +1,516 @@
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\UWS-BACK.csproj.AssemblyReference.cache
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\UWS-BACK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\UWS-BACK.AssemblyInfoInputs.cache
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\UWS-BACK.AssemblyInfo.cs
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\UWS-BACK.csproj.CoreCompileInputs.cache
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\UWS-BACK.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\UWS-BACK.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\appsettings.Development.json
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\appsettings.json
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\UWS-BACK.staticwebassets.endpoints.json
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\UWS-BACK.exe
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\UWS-BACK.deps.json
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\UWS-BACK.runtimeconfig.json
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\UWS-BACK.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\UWS-BACK.pdb
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Azure.Core.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Azure.Identity.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Humanizer.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.ClientModel.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.CodeDom.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Text.Json.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Desktop\UI\UWS-BACK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\scopedcss\bundle\UWS-BACK.styles.css
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\staticwebassets.build.json
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\staticwebassets.development.json
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\staticwebassets\msbuild.UWS-BACK.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\staticwebassets\msbuild.UWS-BACK.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\staticwebassets\msbuild.build.UWS-BACK.props
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UWS-BACK.props
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UWS-BACK.props
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\UWS-BACK.csproj.Up2Date
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\UWS-BACK.dll
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\refint\UWS-BACK.dll
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\UWS-BACK.pdb
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\UWS-BACK.genruntimeconfig.cache
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\ref\UWS-BACK.dll
+D:\Desktop\UI\UWS-BACK\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\appsettings.json
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\UWS-BACK.staticwebassets.endpoints.json
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\UWS-BACK.exe
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\UWS-BACK.deps.json
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\UWS-BACK.runtimeconfig.json
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\UWS-BACK.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\UWS-BACK.pdb
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.csproj.AssemblyReference.cache
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.AssemblyInfoInputs.cache
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.AssemblyInfo.cs
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.csproj.CoreCompileInputs.cache
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\scopedcss\bundle\UWS-BACK.styles.css
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets\msbuild.UWS-BACK.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets\msbuild.UWS-BACK.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets\msbuild.build.UWS-BACK.props
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UWS-BACK.props
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UWS-BACK.props
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.csproj.Up2Date
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\refint\UWS-BACK.dll
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.pdb
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.genruntimeconfig.cache
+C:\Users\Vinod kumar\source\repos\UPS PROJECT MAIN - UWS\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\ref\UWS-BACK.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\appsettings.Development.json
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\appsettings.json
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\UWS-BACK.staticwebassets.endpoints.json
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\UWS-BACK.exe
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\UWS-BACK.deps.json
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\UWS-BACK.runtimeconfig.json
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\UWS-BACK.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\UWS-BACK.pdb
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Azure.Core.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Azure.Identity.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Humanizer.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.ClientModel.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.CodeDom.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Text.Json.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.csproj.AssemblyReference.cache
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.AssemblyInfoInputs.cache
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.AssemblyInfo.cs
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.csproj.CoreCompileInputs.cache
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\scopedcss\bundle\UWS-BACK.styles.css
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets.build.json
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets.development.json
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets\msbuild.UWS-BACK.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets\msbuild.UWS-BACK.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets\msbuild.build.UWS-BACK.props
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UWS-BACK.props
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UWS-BACK.props
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.csproj.Up2Date
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\refint\UWS-BACK.dll
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.pdb
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\UWS-BACK.genruntimeconfig.cache
+D:\Desktop\UI\uws_backend_dotnet-main\uws_backend_dotnet-main\uws_backend_dotnet-main\obj\Debug\net8.0\ref\UWS-BACK.dll
